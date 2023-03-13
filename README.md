@@ -1,5 +1,6 @@
 # Hello! I am Peng-Yi Lin  <img src="https://em-content.zobj.net/source/microsoft-teams/337/waving-hand_1f44b.png" width="40px" >
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=gigilin7&show_icons=true&theme=radical)
+<!--![GitHub stats](https://github-readme-stats.vercel.app/api?username=gigilin7&show_icons=true&theme=radical)-->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=gigilin7&show_icons=true)
 
 ## 🤗Here is something about me:
 🎓 I’m a Computer Science student in the first year master degree at National Chung Hsing University
