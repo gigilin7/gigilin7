@@ -9,7 +9,7 @@
 
 🌱 I’m working as a deputy network manager and TA in NLP lab
 
-🔔 I’m looking for summer internship opportunities this year in software engineering and AI engineering
+🔔 ~~I’m looking for summer internship opportunities this year in software engineering and AI engineering~~ ✔
 
 
 ## 📫 How to reach me
