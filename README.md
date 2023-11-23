@@ -9,7 +9,9 @@
 
 🌱 I’m working as a deputy network manager and TA in NLP lab
 
-🔔 ~~I’m looking for summer internship opportunities this year in software engineering and AI engineering~~ ✔
+🚩 I worked as a software engineer intern at Delta
+
+🔔 I’m looking for the jobs in software engineering, data engineering and AI engineering
 
 
 ## 📫 How to reach me
