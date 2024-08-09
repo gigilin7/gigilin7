@@ -3,7 +3,7 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=gigilin7&show_icons=true)
 
 ## 🤗Here is something about me:
-🎓 I’m a Computer Science student in the first year master degree at National Chung Hsing University
+🎓 I’m a Computer Science student in the second year master degree at National Chung Hsing University
 
 💻 I love artifical intelligent, data science, and natural language processing
 
