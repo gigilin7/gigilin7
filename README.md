@@ -1,13 +1,13 @@
 # Hello! I am Peng-Yi Lin  <img src="https://em-content.zobj.net/source/microsoft-teams/337/waving-hand_1f44b.png" width="40px" >
 <!--![GitHub stats](https://github-readme-stats.vercel.app/api?username=gigilin7&show_icons=true&theme=radical)-->
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=gigilin7&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=gigilin7&show_icons=true)  [![trophy](https://github-profile-trophy.vercel.app/?username=gigilin7&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🤗Here is something about me:
-🎓 I’m a Computer Science student in the second year master degree at National Chung Hsing University
+🎓 I am a graduated master student in Computer Science & Engineering of National Chung Hsing University
 
 💻 I love artifical intelligent, data science, and natural language processing
 
-🌱 I’m working as a deputy network manager and TA in NLP lab
+🌱 I worked as a deputy network manager and TA in NLP lab
 
 🚩 I worked as a software engineer intern at Delta
 
@@ -17,7 +17,18 @@
 ## 📫 How to reach me
 <a href="mailto:gigilinqoo@gmail.com"><img src="https://img.shields.io/badge/-gigilinqoo@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 
+## 🛠️ Skills
+### Languages
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,go,java)](https://skillicons.dev)
 
+### Full Stack Development
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,vue,fastapi,flask)](https://skillicons.dev)
+
+### Database
+[![My Skills](https://skillicons.dev/icons?i=elasticsearch,mysql,mongodb)](https://skillicons.dev)
+
+### Others
+[![My Skills](https://skillicons.dev/icons?i=pytorch,git,linux,aws,firebase,matlab,androidstudio)](https://skillicons.dev)
 
 
 <!--👋
