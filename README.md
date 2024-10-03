@@ -25,10 +25,10 @@
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,vue,fastapi,flask)](https://skillicons.dev)
 
 ### Database
-[![My Skills](https://skillicons.dev/icons?i=elasticsearch,mysql,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=elasticsearch,mysql,mongodb,firebase)](https://skillicons.dev)
 
 ### Others
-[![My Skills](https://skillicons.dev/icons?i=pytorch,git,linux,aws,firebase,matlab,androidstudio)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=pytorch,git,linux,aws,matlab,androidstudio)](https://skillicons.dev)
 
 
 <!--👋
