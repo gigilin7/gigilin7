@@ -1,6 +1,6 @@
 # Hello! I am Peng-Yi Lin  <img src="https://em-content.zobj.net/source/microsoft-teams/337/waving-hand_1f44b.png" width="40px" >
 <!--![GitHub stats](https://github-readme-stats.vercel.app/api?username=gigilin7&show_icons=true&theme=radical)-->
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=gigilin7&show_icons=true)  [![trophy](https://github-profile-trophy.vercel.app/?username=gigilin7&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=gigilin7&show_icons=true)  [![trophy](https://github-profile-trophy.vercel.app/?username=gigilin7&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🤗Here is something about me:
 🎓 I am a graduated master student in Computer Science & Engineering of National Chung Hsing University
