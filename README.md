@@ -27,6 +27,9 @@
 ### Database
 [![My Skills](https://skillicons.dev/icons?i=elasticsearch,mysql,mongodb,firebase)](https://skillicons.dev)
 
+### Software Development
+[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,maven)](https://skillicons.dev)
+
 ### Others
 [![My Skills](https://skillicons.dev/icons?i=pytorch,git,linux,aws,matlab,androidstudio)](https://skillicons.dev)
 
